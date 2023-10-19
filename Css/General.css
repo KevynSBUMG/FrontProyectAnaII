@@ -1,0 +1,16 @@
+body{
+    height: 100%;
+    background-color: #04547c;
+}
+.bg-blue{
+    background-color: #04547c;
+}
+.bg-grey{
+    background-color:#333333;
+}
+.hfooter-sb{
+    height: 5rem;
+}
+.w_btn-sb{
+    width: 51%;
+}
